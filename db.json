@@ -15,6 +15,14 @@
       "place": "Vijayawada",
       "batch_name": "WEB-18",
       "profession": "FSD"
+    },
+    {
+      "id": 3,
+      "name": "chiku",
+      "age": 25,
+      "place": "lucknow",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
     }
   ]
 }
