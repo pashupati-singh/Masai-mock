@@ -9,9 +9,18 @@
       "profession": "FSD"
     },
     {
+      "id": 1,
       "name": "chiku",
       "age": 26,
       "place": "Ballia",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "pashupati",
+      "age": 25,
+      "place": "lucknow",
       "batch_name": "WEB-18",
       "profession": "FSD"
     }
